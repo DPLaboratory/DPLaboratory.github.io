@@ -1,0 +1,6 @@
+site_name: DPLab Blog
+nav:
+  - Home: index.md
+theme:
+  name: mkdocs
+  color_mode: dark
